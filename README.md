@@ -4,7 +4,7 @@
   - [Creating User's in Entra ID](https://github.com/tech-kevaughn/user-accounts)
   - [Role Assignments](https://github.com/tech-kevaughn/assign-roles)
   - [Group Assignments](https://github.com/tech-kevaughn/group-assignments)
-  - [Identity Lifecycle]()
+  - [Identity Lifecycle](https://github.com/tech-kevaughn/identity-lifecycle)
   - [Audit Logs](https://github.com/tech-kevaughn/audit-logs)
   - [Sign-In Logs](https://github.com/tech-kevaughn/sign-in-logs)
   - [Authentication](https://github.com/tech-kevaughn/authentication)
