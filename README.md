@@ -7,4 +7,4 @@
   - [Identity Lifecycle]()
   - [Audit Logs]()
   - [Sign-In Logs]()
-  - [Authentication]()
+  - [Authentication](https://github.com/tech-kevaughn/authentication)
