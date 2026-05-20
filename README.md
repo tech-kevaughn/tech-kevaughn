@@ -6,5 +6,5 @@
   - [Group Assignments](https://github.com/tech-kevaughn/group-assignments)
   - [Identity Lifecycle]()
   - [Audit Logs]()
-  - [Sign-In Logs]()
+  - [Sign-In Logs](https://github.com/tech-kevaughn/sign-in-logs)
   - [Authentication](https://github.com/tech-kevaughn/authentication)
